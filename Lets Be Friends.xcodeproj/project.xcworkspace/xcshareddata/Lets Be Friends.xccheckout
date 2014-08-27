@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>487F25C0-4C96-4EB1-94E1-C389876D5167</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Lets Be Friends</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D322A19BCA7C03B0A44F75AF7459161C84E7B23D</key>
+		<string>https://github.com/schwaebek/Lets-Be-Friends.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Lets Be Friends.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D322A19BCA7C03B0A44F75AF7459161C84E7B23D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/schwaebek/Lets-Be-Friends.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D322A19BCA7C03B0A44F75AF7459161C84E7B23D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D322A19BCA7C03B0A44F75AF7459161C84E7B23D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Lets%20Be%20Friends</string>
+		</dict>
+	</array>
+</dict>
+</plist>
